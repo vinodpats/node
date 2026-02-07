@@ -1,4 +1,4 @@
-title,author,stock
-Harry Potter,J.K. Rowling,100
-The Hobbit,J.R.R. Tolkien,50
-Sapiens,Yuval Noah Harrari,500
+ID,title,author,stock
+a43675ee-79af-44eb-826d-9c9555291c4a,Harry Potter,J.K. Rowling,100
+c9e78068-ddff-4f29-b71c-c4e0cf59c852,The Hobbit,J.R.R. Tolkien,50
+4d64d273-aa29-47b4-a698-f4a3b8b2999d,Sapiens,Yuval Noah Harrari,500
